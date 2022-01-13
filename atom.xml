@@ -6,7 +6,7 @@
   <link href="https://dyphire.github.io/atom.xml" rel="self"/>
   
   <link href="https://dyphire.github.io/"/>
-  <updated>2022-01-12T15:12:55.542Z</updated>
+  <updated>2022-01-13T10:47:29.922Z</updated>
   <id>https://dyphire.github.io/</id>
   
   <author>
@@ -17,14 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>shell 终端美化教程</title>
+    <title>Shell 终端美化教程</title>
     <link href="https://dyphire.github.io/undefined/57389c55.html"/>
     <id>https://dyphire.github.io/undefined/57389c55.html</id>
     <published>2021-09-11T15:00:21.000Z</published>
-    <updated>2022-01-12T15:12:55.542Z</updated>
+    <updated>2022-01-13T10:47:29.922Z</updated>
     
     
-    <summary type="html">shell 终端美化教程</summary>
+    <summary type="html">Shell 终端美化教程</summary>
     
     
     
@@ -38,14 +38,14 @@
   </entry>
   
   <entry>
-    <title>scoop 包管理教程</title>
+    <title>Scoop 包管理教程</title>
     <link href="https://dyphire.github.io/undefined/198c7fc6.html"/>
     <id>https://dyphire.github.io/undefined/198c7fc6.html</id>
     <published>2021-09-11T14:50:21.000Z</published>
-    <updated>2022-01-13T08:49:22.128Z</updated>
+    <updated>2022-01-13T10:47:45.811Z</updated>
     
     
-    <summary type="html">scoop 包管理教程</summary>
+    <summary type="html">Scoop 包管理教程</summary>
     
     
     
@@ -59,14 +59,14 @@
   </entry>
   
   <entry>
-    <title>now-subconverter 使用指南</title>
+    <title>Now-subconverter 使用指南</title>
     <link href="https://dyphire.github.io/undefined/dc535e76.html"/>
     <id>https://dyphire.github.io/undefined/dc535e76.html</id>
     <published>2021-09-05T10:25:21.000Z</published>
-    <updated>2022-01-13T08:46:02.170Z</updated>
+    <updated>2022-01-13T10:48:11.866Z</updated>
     
     
-    <summary type="html">now-subconverter 使用指南</summary>
+    <summary type="html">Now-subconverter 使用指南</summary>
     
     
     
@@ -174,14 +174,14 @@
     <link href="https://dyphire.github.io/undefined/a73a9dd5.html"/>
     <id>https://dyphire.github.io/undefined/a73a9dd5.html</id>
     <published>2021-06-06T10:17:28.095Z</published>
-    <updated>2022-01-12T15:11:12.612Z</updated>
+    <updated>2022-01-13T10:49:17.580Z</updated>
     
     
     <summary type="html">hexo 标签语法</summary>
     
     
     
-    <category term="hexo" scheme="https://dyphire.github.io/categories/hexo/"/>
+    <category term="Hexo" scheme="https://dyphire.github.io/categories/Hexo/"/>
     
     
     <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
@@ -216,18 +216,18 @@
   </entry>
   
   <entry>
-    <title>Hexo 上的豆瓣、bilibili 和 steam 插件</title>
+    <title>Hexo 上的豆瓣、哔哩哔哩和 Steam 插件</title>
     <link href="https://dyphire.github.io/undefined/7e42bc76.html"/>
     <id>https://dyphire.github.io/undefined/7e42bc76.html</id>
     <published>2021-06-01T11:35:37.000Z</published>
-    <updated>2022-01-13T09:33:09.742Z</updated>
+    <updated>2022-01-13T10:49:42.257Z</updated>
     
     
-    <summary type="html">Hexo 豆瓣、哔哩哔哩和 steam 插件</summary>
+    <summary type="html">Hexo 豆瓣、哔哩哔哩和 Steam 插件</summary>
     
     
     
-    <category term="hexo" scheme="https://dyphire.github.io/categories/hexo/"/>
+    <category term="Hexo" scheme="https://dyphire.github.io/categories/Hexo/"/>
     
     
     <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
