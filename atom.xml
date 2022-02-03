@@ -6,7 +6,7 @@
   <link href="https://dyphire.github.io/atom.xml" rel="self"/>
   
   <link href="https://dyphire.github.io/"/>
-  <updated>2022-01-13T10:59:54.541Z</updated>
+  <updated>2022-02-03T11:54:20.110Z</updated>
   <id>https://dyphire.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Alass：一种文本字幕批量调轴工具</title>
+    <link href="https://dyphire.github.io/undefined/13234df3.html"/>
+    <id>https://dyphire.github.io/undefined/13234df3.html</id>
+    <published>2022-02-03T11:14:53.000Z</published>
+    <updated>2022-02-03T11:54:20.110Z</updated>
+    
+    
+    <summary type="html">Alass：一种文本字幕批量调轴工具</summary>
+    
+    
+    
+    <category term="Course" scheme="https://dyphire.github.io/categories/Course/"/>
+    
+    
+    <category term="alass" scheme="https://dyphire.github.io/tags/alass/"/>
+    
+    <category term="字幕工具" scheme="https://dyphire.github.io/tags/%E5%AD%97%E5%B9%95%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Shell 终端美化教程</title>
@@ -427,31 +448,6 @@
     
     
     <summary type="html">Butterfly安裝文檔-更新日誌</summary>
-    
-    
-    
-    <category term="Docs文檔" scheme="https://dyphire.github.io/categories/Docs%E6%96%87%E6%AA%94/"/>
-    
-    
-    <category term="教程" scheme="https://dyphire.github.io/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
-    
-    <category term="主題" scheme="https://dyphire.github.io/tags/%E4%B8%BB%E9%A1%8C/"/>
-    
-    <category term="butterfly" scheme="https://dyphire.github.io/tags/butterfly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Butterfly 安裝文檔(六) 進階教程</title>
-    <link href="https://dyphire.github.io/undefined/4073eda.html"/>
-    <id>https://dyphire.github.io/undefined/4073eda.html</id>
-    <published>2020-05-28T14:39:25.000Z</published>
-    <updated>2021-12-17T18:19:00.000Z</updated>
-    
-    
-    <summary type="html">Butterfly安裝文檔-進階教程</summary>
     
     
     
