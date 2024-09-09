@@ -6,7 +6,7 @@
   <link href="https://dyphire.github.io/atom.xml" rel="self"/>
   
   <link href="https://dyphire.github.io/"/>
-  <updated>2023-09-23T12:24:42.879Z</updated>
+  <updated>2024-09-09T12:40:17.316Z</updated>
   <id>https://dyphire.github.io/</id>
   
   <author>
@@ -15,6 +15,70 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一款简单易用的反向代理神器</title>
+    <link href="https://dyphire.github.io/undefined/7e2174f.html"/>
+    <id>https://dyphire.github.io/undefined/7e2174f.html</id>
+    <published>2024-09-09T12:33:20.000Z</published>
+    <updated>2024-09-09T12:40:17.316Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;在上一篇文章《&lt;a href=&quot;https://ilaozhu.com/archives/59/&quot;&gt;使用 Docker 快速搭建一个 Typecho</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="教程" scheme="https://dyphire.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="NPM" scheme="https://dyphire.github.io/tags/NPM/"/>
+    
+    <category term="反向代理" scheme="https://dyphire.github.io/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费申请永久泛域名 SSL 证书的方法</title>
+    <link href="https://dyphire.github.io/undefined/507f60ec.html"/>
+    <id>https://dyphire.github.io/undefined/507f60ec.html</id>
+    <published>2024-09-09T12:33:20.000Z</published>
+    <updated>2024-09-09T12:39:51.150Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;上一篇文章中，我们通过使用 &lt;strong&gt;Nginx Proxy Manager&lt;/strong&gt;(简称&lt;code&gt;NPM&lt;/code&gt;) 非常方便的解决了同一台服务器部署多个网站，并共享 &lt;code&gt;80&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="教程" scheme="https://dyphire.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="NPM" scheme="https://dyphire.github.io/tags/NPM/"/>
+    
+    <category term="SSL 证书" scheme="https://dyphire.github.io/tags/SSL-%E8%AF%81%E4%B9%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>Alass：一种文本字幕批量自动调轴工具</title>
