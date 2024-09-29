@@ -182,11 +182,11 @@
     <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
     <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
     
     <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
-    
-    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
     
   </entry>
   
@@ -205,9 +205,9 @@
     <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
-    
     <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
     
     <category term="github" scheme="https://dyphire.github.io/tags/github/"/>
     
