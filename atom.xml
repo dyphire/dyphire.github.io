@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>泛舟湖上</title>
+  <icon>https://dyphire.github.io/icon.png</icon>
+  
+  <link href="https://dyphire.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dyphire.github.io/"/>
+  <updated>2025-06-02T04:36:07.262Z</updated>
+  <id>https://dyphire.github.io/</id>
+  
+  <author>
+    <name>Dyphire</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>KomgaBangumi 漫画服务器元数据刮削器</title>
+    <link href="https://dyphire.github.io/undefined/f7478520.html"/>
+    <id>https://dyphire.github.io/undefined/f7478520.html</id>
+    <published>2025-06-02T04:24:27.000Z</published>
+    <updated>2025-06-02T04:36:07.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;KomgaBangumi&lt;/h1&gt;
+&lt;p&gt;Komga 漫画服务器元数据刮削器，使用 Bangumi API，并支持自定义 Access Token&lt;/p&gt;
+&lt;p&gt;用于自建 Komga 服务刮削漫画元数据，生成 Metadata 和封面&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
+    
+    <category term="komga" scheme="https://dyphire.github.io/tags/komga/"/>
+    
+    <category term="bangumi" scheme="https://dyphire.github.io/tags/bangumi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alass：一种文本字幕批量自动调轴工具</title>
+    <link href="https://dyphire.github.io/undefined/13234df3.html"/>
+    <id>https://dyphire.github.io/undefined/13234df3.html</id>
+    <published>2022-02-03T11:14:53.000Z</published>
+    <updated>2023-09-23T12:24:42.879Z</updated>
+    
+    
+    <summary type="html">Alass：一种文本字幕批量自动调轴工具</summary>
+    
+    
+    
+    <category term="Course" scheme="https://dyphire.github.io/categories/Course/"/>
+    
+    
+    <category term="alass" scheme="https://dyphire.github.io/tags/alass/"/>
+    
+    <category term="字幕工具" scheme="https://dyphire.github.io/tags/%E5%AD%97%E5%B9%95%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shell 终端美化教程</title>
+    <link href="https://dyphire.github.io/undefined/57389c55.html"/>
+    <id>https://dyphire.github.io/undefined/57389c55.html</id>
+    <published>2021-09-11T15:00:21.000Z</published>
+    <updated>2024-09-10T17:12:16.851Z</updated>
+    
+    
+    <summary type="html">Shell 终端美化教程</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="shell" scheme="https://dyphire.github.io/tags/shell/"/>
+    
+    <category term="终端" scheme="https://dyphire.github.io/tags/%E7%BB%88%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scoop 包管理教程</title>
+    <link href="https://dyphire.github.io/undefined/198c7fc6.html"/>
+    <id>https://dyphire.github.io/undefined/198c7fc6.html</id>
+    <published>2021-09-11T14:50:21.000Z</published>
+    <updated>2023-09-23T12:24:42.886Z</updated>
+    
+    
+    <summary type="html">Scoop 包管理教程</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="scoop" scheme="https://dyphire.github.io/tags/scoop/"/>
+    
+    <category term="包管理" scheme="https://dyphire.github.io/tags/%E5%8C%85%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Now-subconverter 使用指南</title>
+    <link href="https://dyphire.github.io/undefined/dc535e76.html"/>
+    <id>https://dyphire.github.io/undefined/dc535e76.html</id>
+    <published>2021-09-05T10:25:21.000Z</published>
+    <updated>2023-09-23T12:24:42.886Z</updated>
+    
+    
+    <summary type="html">Now-subconverter 使用指南</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="subconverter" scheme="https://dyphire.github.io/tags/subconverter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OneComic 教程</title>
+    <link href="https://dyphire.github.io/undefined/75417d5b.html"/>
+    <id>https://dyphire.github.io/undefined/75417d5b.html</id>
+    <published>2021-07-17T13:37:41.000Z</published>
+    <updated>2023-09-23T12:24:42.884Z</updated>
+    
+    
+    <summary type="html">漫画下载工具</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="OneComic" scheme="https://dyphire.github.io/tags/OneComic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最强渲染器 madVR - 使用指南（下篇）</title>
+    <link href="https://dyphire.github.io/undefined/fa26939c.html"/>
+    <id>https://dyphire.github.io/undefined/fa26939c.html</id>
+    <published>2021-06-18T08:45:47.000Z</published>
+    <updated>2023-09-23T12:24:42.887Z</updated>
+    
+    
+    <summary type="html">madVR - 使用指南（下篇）</summary>
+    
+    
+    
+    <category term="Course" scheme="https://dyphire.github.io/categories/Course/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="madvr" scheme="https://dyphire.github.io/tags/madvr/"/>
+    
+    <category term="影音相关" scheme="https://dyphire.github.io/tags/%E5%BD%B1%E9%9F%B3%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最强渲染器 madVR - 使用指南（上篇）</title>
+    <link href="https://dyphire.github.io/undefined/5c519828.html"/>
+    <id>https://dyphire.github.io/undefined/5c519828.html</id>
+    <published>2021-06-18T08:32:47.000Z</published>
+    <updated>2023-09-23T12:24:42.887Z</updated>
+    
+    
+    <summary type="html">madVR - 使用指南（上篇）</summary>
+    
+    
+    
+    <category term="Course" scheme="https://dyphire.github.io/categories/Course/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="madvr" scheme="https://dyphire.github.io/tags/madvr/"/>
+    
+    <category term="影音相关" scheme="https://dyphire.github.io/tags/%E5%BD%B1%E9%9F%B3%E7%9B%B8%E5%85%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub Pages 加速教程</title>
+    <link href="https://dyphire.github.io/undefined/6d841ea9.html"/>
+    <id>https://dyphire.github.io/undefined/6d841ea9.html</id>
+    <published>2021-06-15T13:02:04.000Z</published>
+    <updated>2023-09-23T12:24:42.882Z</updated>
+    
+    
+    <summary type="html">GitHub Pages 加速教程</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
+    
+    <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PicGo+GitHub 图床搭建</title>
+    <link href="https://dyphire.github.io/undefined/6d798241.html"/>
+    <id>https://dyphire.github.io/undefined/6d798241.html</id>
+    <published>2021-06-02T06:39:15.000Z</published>
+    <updated>2023-09-23T12:24:42.885Z</updated>
+    
+    
+    <summary type="html">PicGo+GitHub 图床搭建</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
+    
+    <category term="github" scheme="https://dyphire.github.io/tags/github/"/>
+    
+    <category term="图床" scheme="https://dyphire.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 上的豆瓣、哔哩哔哩和 Steam 插件</title>
+    <link href="https://dyphire.github.io/undefined/7e42bc76.html"/>
+    <id>https://dyphire.github.io/undefined/7e42bc76.html</id>
+    <published>2021-06-01T11:35:37.000Z</published>
+    <updated>2024-09-09T17:17:21.068Z</updated>
+    
+    
+    <summary type="html">Hexo 豆瓣、哔哩哔哩和 Steam 插件</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://dyphire.github.io/categories/Hexo/"/>
+    
+    
+    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
+    
+    <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则表达式</title>
+    <link href="https://dyphire.github.io/undefined/2f57a694.html"/>
+    <id>https://dyphire.github.io/undefined/2f57a694.html</id>
+    <published>2021-06-01T10:54:47.000Z</published>
+    <updated>2023-09-23T12:24:42.888Z</updated>
+    
+    
+    <summary type="html">简单介绍下正则表达式</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="JavaScript" scheme="https://dyphire.github.io/tags/JavaScript/"/>
+    
+    <category term="正则表达式" scheme="https://dyphire.github.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 使用方法</title>
+    <link href="https://dyphire.github.io/undefined/6199169a.html"/>
+    <id>https://dyphire.github.io/undefined/6199169a.html</id>
+    <published>2021-06-01T10:09:31.000Z</published>
+    <updated>2023-09-23T12:24:42.885Z</updated>
+    
+    
+    <summary type="html">Git 使用方法</summary>
+    
+    
+    
+    <category term="工具" scheme="https://dyphire.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="转载" scheme="https://dyphire.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="github" scheme="https://dyphire.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 标签语法</title>
+    <link href="https://dyphire.github.io/undefined/a73a9dd5.html"/>
+    <id>https://dyphire.github.io/undefined/a73a9dd5.html</id>
+    <published>2021-05-28T04:21:49.000Z</published>
+    <updated>2023-09-23T12:24:42.885Z</updated>
+    
+    
+    <summary type="html">Hexo 标签语法</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://dyphire.github.io/categories/Hexo/"/>
+    
+    
+    <category term="blog" scheme="https://dyphire.github.io/tags/blog/"/>
+    
+    <category term="Hexo" scheme="https://dyphire.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown-Emoji - 速查</title>
+    <link href="https://dyphire.github.io/undefined/ddaea483.html"/>
+    <id>https://dyphire.github.io/undefined/ddaea483.html</id>
+    <published>2021-05-27T04:21:49.000Z</published>
+    <updated>2023-09-23T12:24:42.883Z</updated>
+    
+    
+    <summary type="html">Markdown Emoji 速查</summary>
+    
+    
+    
+    <category term="Markdown" scheme="https://dyphire.github.io/categories/Markdown/"/>
+    
+    <category term="Emoji" scheme="https://dyphire.github.io/categories/Markdown/Emoji/"/>
+    
+    
+    <category term="Markdown" scheme="https://dyphire.github.io/tags/Markdown/"/>
+    
+    <category term="Emoji" scheme="https://dyphire.github.io/tags/Emoji/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 基础语法 - 二</title>
+    <link href="https://dyphire.github.io/undefined/a1529388.html"/>
+    <id>https://dyphire.github.io/undefined/a1529388.html</id>
+    <published>2021-05-25T14:50:40.000Z</published>
+    <updated>2024-12-16T10:27:41.463Z</updated>
+    
+    
+    <summary type="html">Markdown 基础语法-二</summary>
+    
+    
+    
+    <category term="Markdown" scheme="https://dyphire.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://dyphire.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 基础语法 - 一</title>
+    <link href="https://dyphire.github.io/undefined/793ae297.html"/>
+    <id>https://dyphire.github.io/undefined/793ae297.html</id>
+    <published>2021-05-25T13:43:23.000Z</published>
+    <updated>2024-12-16T10:23:15.258Z</updated>
+    
+    
+    <summary type="html">Markdown 基础语法-一</summary>
+    
+    
+    
+    <category term="Markdown" scheme="https://dyphire.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://dyphire.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
